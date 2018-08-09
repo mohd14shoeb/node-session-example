@@ -1,0 +1,16 @@
+{
+  "name": "node-session-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ThaddeusJiang/node-session-example.git",
+  "author": "Thaddeus Jiang <thaddeusjiang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.8.2",
+    "xtemplate": "^4.6.1",
+    "xtpl": "^3.4.0"
+  }
+}
